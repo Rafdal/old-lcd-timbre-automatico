@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/rafa/Descargas/arduino-1.8.8-linux64/arduino-1.8.8/libraries/**",
+                "/home/rafa/Descargas/arduino-1.8.8-linux64/arduino-1.8.8/hardware/tools/avr/lib/gcc/avr/5.4.0/include/**",
+                "/home/rafa/Descargas/arduino-1.8.8-linux64/arduino-1.8.8/hardware/tools/avr/avr/include/**",
+                "/home/rafa/Descargas/arduino-1.8.8-linux64/arduino-1.8.8/tools/**",
+                "/home/rafa/Descargas/arduino-1.8.8-linux64/arduino-1.8.8/hardware/arduino/avr/**",
+                "/home/rafa/Descargas/arduino-1.8.8-linux64/arduino-1.8.8/libraries/FastCRC-master",
+                "/home/rafa/Descargas/arduino-1.8.8-linux64/arduino-1.8.8/libraries/SimpleTimer"
+            ],
+            "forcedInclude": [
+                "/home/rafa/Descargas/arduino-1.8.8-linux64/arduino-1.8.8/hardware/arduino/avr/cores/arduino/Arduino.h"
+            ],
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
